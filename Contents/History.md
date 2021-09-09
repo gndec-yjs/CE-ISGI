@@ -23,7 +23,7 @@ Machu Picchu, Peru, built at around 1450, at the height of the Inca Empire is co
 
 ![2.4](Images/2.4.png)
 
-A treatise on Architecture, Book called Vitruvius' De Archiectura, was published at 1AD in Rome and survived to give us a look at engineering education in ancient times. It was probably written around 15 BC by the Roman architect Vitruvius and dedicated to his patron, the emperor Caesar Augustus, as a guide for building projects.  
+A treatise on Architecture, Book called Vitruvius' De Architectura, was published at 1AD in Rome and survived to give us a look at engineering education in ancient times. It was probably written around 15 BC by the Roman architect Vitruvius and dedicated to his patron, the emperor Caesar Augustus, as a guide for building projects.  
 
 Throughout ancient and medieval history most architectural design and construction was carried out by artisans, such as stonemasons and carpenters, rising to the role of master builder. Knowledge was retained in guilds and seldom supplanted by advances. Structures, roads and infrastructure that existed were repetitive, and increases in scale were incremental.  
 
@@ -33,7 +33,7 @@ One of the earliest examples of a scientific approach to physical and mathematic
 
 In the 18th century, the term civil engineering was coined to incorporate all things civilian as opposed to military engineering. The first engineering school, The National School of Bridges and Highways, France, was opened in 1747. The first self-proclaimed civil engineer was John Smeaton who constructed the Eddystone Lighthouse. In 1771, Smeaton and some of his colleagues formed the Smeatonian Society of Civil Engineers, a group of leaders of the profession who met informally over dinner. Though there was evidence of some technical meetings, it was little more than a social society.   
 
-![2.5](Images/2.5.png) 
+![2.5](Images/2.5.png)
 
 In 1818, world’s first engineering society, the Institution of Civil Engineers was founded in London, and in 1820 the eminent engineer Thomas Telford became its first president. The institution received a Royal Charter in 1828, formally recognizing civil engineering as a profession.   
 
