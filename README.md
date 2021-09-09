@@ -2,7 +2,7 @@
 
 | **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus_CE.png)** | **[Contact](Contents/Contact.md)** |  
 
-![Bridge](Contents/Images/1Bridge.jpg)
+![Civil Engineering](Contents/Images/Wallpaper_CE.jpg)
 
 ---
 
