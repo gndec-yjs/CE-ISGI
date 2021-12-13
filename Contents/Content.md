@@ -2,7 +2,7 @@
 
 ### Part A
 
-- [Introduction to Civil Engineering](pdf/Introduction_to_Civil_Engineering.pdf)
+- [Introduction to Civil Engineering](pdf/Introduction_CE-ISGI.pdf)
 - [History of Civilization](History_of_Civilization.md)
 - [Understanding the importance of Civil Engineering in sharping and impacting the world](pdf/Understanding_the_importance_of_civil_engineering_in_shaping_the_world.pdf)
 - [Scope of work involved in various branches of Civil Engineering](pdf/Scope_of_work_involved_in_various_branches_of_Civil_Engineering.pdf)
@@ -14,3 +14,16 @@
 - [Agriculture Revolution](pdf/Agriculture_Revolution.pdf)
 - [IT Revolution]
 - [Concept of Sustainability](pdf/Concept_of_Sustainability.pdf)
+- [Environmental Impact Assessment (EIA)]
+
+
+### Part B
+
+- [Infrastructure Development and growth of the Nation]
+- [Introduction and overview to Futuristic systems: Megacities, Smart cities]
+- [Roads]
+- [Railways]
+- [Metros]
+- [Hyper Loop]
+- [Airports]
+- [Seaports]
