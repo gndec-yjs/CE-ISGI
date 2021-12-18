@@ -15,7 +15,7 @@
 - [IT Revolution]
 - [Concept of Sustainability](pdf/Concept_of_Sustainability.pdf)
 - [Global Warming, its impact and possible causes](pdf/Global_Warming.pdf)
-- [Atmospheric Pollution]
+- [Atmospheric Pollution](pdf/Atmospheric_Pollution.pdf)
 - [Pollution Mitigation measures]
 - [Health & Safety aspects for stakeholders]
 - [Environmental Impact Analysis (EIA)](pdf/Environment_Impact_Assessment.pdf)
@@ -46,6 +46,7 @@
 - [Flood Control: Dams, Canals, River Interlinking](pdf/Flood_Control_1.pdf)
 - [Flood Control (Presentation 2)](pdf/FLOOD.pdf)
 - [Energy Efficient Built-Environments](pdf/Energy_Efficient_Buildings.pdf)
+- [Green Buildings - by Sakshi](pdf/GREEN BUILDINGS_Sakshi.pdf)
 - [LEED Rating System](pdf/LEED.pdf)
 - **Awareness of Various Codes and Standards governing Infrastructure Development**
 - [Presentation 1](pdf/Awareness_of_various_codes.pdf)
