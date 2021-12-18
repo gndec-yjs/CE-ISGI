@@ -22,8 +22,11 @@
 - [Infrastructure Development and growth of the Nation]
 - [Introduction and overview to Futuristic systems: Megacities, Smart cities]
 - [Roads]
-- [Railways]
-- [Metros]
-- [Hyper Loop]
-- [Airports]
+- [Railways](pdf/Railways_Navjot.pdf)
+- [Metros](pdf/Metros.pdf)
+- [Hyper Loop (Presentation 1)](pdf/HYPERLOOP_Manmohit.pdf)
+- [Hyper Loop (Presentation 2)](pdf/HYPERLOOP_2)
+- [Hyper Loop (Presentation 3)](pdf/Hyperloop_3)
+- [Airports (Presentation 1)](pdf/)
+- [Airports (Presentation 2)](pdf)
 - [Seaports]
