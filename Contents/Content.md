@@ -42,6 +42,7 @@
 - [Bridges (Presentation 1) - by Smriti 2014078](pdf/Bridges_Smriti_2014078.pdf)
 - [Bridges (Presentation 2) - by Pushpinder 2014124](pdf/Bridges_Pushpinder_2014124.pdf)
 - [Energy Generation: Hydro, Solar, Wind, Wave, Tidal, Geothermal, Thermal Energy](pdf/ENERGY_GENERATION.pdf)
+- [Tidal Energy - by Vishal Sidhu (2014086)](pdf/Tidal_Energy.pdf)
 - [Telecommunication Needs: Towers, Above-ground and Underground Cabling](pdf/TELECOMMUNICATION.pdf)
 - [Flood Control: Dams, Canals, River Interlinking](pdf/Flood_Control_1.pdf)
 - [Flood Control (Presentation 2)](pdf/FLOOD.pdf)
