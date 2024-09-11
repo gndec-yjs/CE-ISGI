@@ -1,6 +1,6 @@
 # Civil Engineering - Introduction, Societal and Global Impact
 
-| **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus_CE.png)** | **[Presentations Batch 2024](Presentations Batch 2024/Contents.md)** | **[Contact](Contents/Contact.md)** |  
+| **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus_CE.png)** | **[Presentations Batch 2024](Presentations Batch 2024\Contents.md)** | **[Contact](Contents/Contact.md)** |  
 
 ![Civil Engineering](Contents/Images/Wallpaper_CE.jpg)
 
