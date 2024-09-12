@@ -12,7 +12,7 @@
 - [Ancient and Modern Marvels in Civil Engineering - Suryansh Thakur (2314079 - Presented)](Part-A/6_The_Ancient_And_Modern_Marvels_And_Wonders_Of_Civil_Engineering-Suryansh_Thakur(2314079).pdf)
 - [Scope of Work in Various Branches of Civil Engineering and Future Vision - Randeep Singh (2314070 - Presented)](Part-A/7_Scope_of_work_involved_in_various_branches_of_civil_enineering_and_future_vision-Randeep_Singh(2314070).pdf)
 - [Recent Civil Engineering Breakthroughs and Innovations - Sahil Insan (2314074 - Presented)](Part-A/8_Recent_Civil_Engineering_Breakthrough_and_innovation-Sahil_Insan(2314074).pdf)
-- [Entrepreneurial opportunities in civil engineering - Vikrat Bansal (2314094  Presented)](Part-A/9_Entrepreneurial_Opportunities-Vikrat_Bansal(2314094))
+- [Entrepreneurial opportunities in civil engineering - Vikrat Bansal (2314094 - Presented)](Part-A/9_Entrepreneurial_Opportunities_Vikrant_Bansal(2314094).pdf)
 - [Start-ups_contribute_to_grow_ civil_engineering-Vikas (2314086 - Presented)](Part-A/10_Start-ups_contribute_to_grow_civil_engineering-Vikas(2314086).pdf)
 - [Pre Industrial Days-Sumit Pareek (2314078- Not Presented)](Part-A/11_Pre_Indusrial_Days-Sumit_Pareek(2314078).pdf)
 - [The Industrial Revolution - Udaiveer Singh Sandhu (2314083 -  Presented)](Part-A/12_The_Industrial_revolution-Udaiveer_Singh_Sandhu(2314083).pdf)
