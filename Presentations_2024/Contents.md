@@ -17,7 +17,7 @@
 - [Pre Industrial Days-Sumit Pareek (2314078- Not Presented)](Part-A/11_Pre_Indusrial_Days-Sumit_Pareek(2314078).pdf)
 - [The Industrial Revolution - Udaiveer Singh Sandhu (2314083 -  Presented)](Part-A/12_The_Industrial_revolution-Udaiveer_Singh_Sandhu(2314083).pdf)
 - [How Agriculture Revolution Help Civil Engineers to Grow - Ravi inder Singh (2314072 - Presented)](Part-A/13_How_Agriculture_Revolution_Help_Civil_Engineering_To_Grow-Ravi_inder_Singh(2314072).pdf)
-- [The Agriculture Revolution-Neeraj Singh (2314062- Not Presented)](Part-A/14_The_Agriculture_Revolution-Neeraj_Singh(2314062).pdf)
+- [The Agriculture Revolution-Neeraj Singh (2314062- Presented)](Part-A/14_The_Agriculture_Revolution-Neeraj_Singh(2314062).pdf)
 - [First and second industrial revolution - Rajandeep Kaur (2314069 - Not Presented)](Part-A/16_First_and_second_industrial_revolution-Rajandeep_kaur(2314069).pdf)
 [How first and second Industrial Revolutions helped civil engineering to grow -Vansh Sehgal (2314084 -  Presented)](Part-A/15_How_first_and_second_industrial_revolution_help_the_civil_engineers_to_grow-Vansh_Sehgal(2314084).pdf)
 - [IT Revolution and it's Impact on Civil Engineering - Vishal Kumar (2314087  Not Presented)](Part-A/17_IT_Revolution_and_it's_impact_on_civil_engineering-Vishal_Kumar(2314087).pdf)
@@ -46,6 +46,7 @@
 
 ### Part B
 
+- [Civil Engineering Effect on Safety, Sustainability, Quality of life, Employment - Mohit Singh Sombria (2314132 - Presented)](Part-B/50_Civil_Engineering_Effect_on_Safety_Sustainability_Quality_of_life_Employment_Mohit_Singh_Sombria_(2314132).pdf)
 - [Infrastructure Development And Growth of Nation - Rudrain Thakur (2314123 - Presented)](Part-B/1_Infrastructure_Development_And_Growth_of_Nation_Rudrain_Thakur_(2314123).pdf)
 - [Infrastructure Development and Growth of Nation - Sukhpreet Singh (2314126)](Part-B/2_Infrastructure_Development_and_Growth_of_Nation_Sukhpreet_Singh_(2314126).pdf)
 - [How Roads and Railway Help to Grow GDP - Priyanshu (2314067 - Presented)](Part-B/3_How_Roads_and_Railway_Help_to_Grow_GDP_Priyanshu_(2314067).pdf)
@@ -99,7 +100,6 @@
 - [Types of Concrete Use in Different Types of Infrastructure - Subham Kumar (2314075)](Part-B/47_Types_of_Concrete_Use_in_Different_Types_of_Infrastructure_Subham_Kumar_(2314075).pdf)
 - [Renewable Energy Integration Overcoming Challenges - Taranjeet Kaur (2314080)](Part-B/48_Renewable_Energy_Intigration_Challenges_Taranjeet_Kaur_(2314080).pdf)
 - [Technological Disruption and Failures in Civil Engineering - Vikas (2314086)](Part-B/49_Technological_Disruption_and_Failures_in_Civil_Engineering_Vikas_(2314086).pdf.pdf)
-- [Civil Engineering Effect on Safety, Sustainability, Quality of life, Employment - Mohit Singh Sombria (2314132 - Presented)](Part-B/50_Civil_Engineering_Effect_on_Safety_Sustainability_Quality_of_life_Employment_Mohit_Singh_Sombria_(2314132).pdf)
 - [Introduction and Overview to Futuristic Systems Canals - Vivek Singh (2314088)](Part-B/51_Introduction_and_Overview_to_Futuristic_Systems_Canals_Vivek_Singh_(2314088).pdf)
 - [Optimizing Energy Use in Modern Construction - Tanveer Singh (2314096)](Part-B/52_Optimizing_Energy_Use_in_Modern_Construction_Tanveer_Singh_(2314096).pdf)
 - [Financial Mechanism for Infrastructure Development - Peyanshu (2314066)](Part-B/53_Financial_Mechanism_for_Infrastructure_Development_Peyanshu_(2314066).pdf)
