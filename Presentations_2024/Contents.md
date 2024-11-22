@@ -19,7 +19,7 @@
 - [How Agriculture Revolution Help Civil Engineers to Grow - Ravi inder Singh (2314072 - Presented)](Part-A/13_How_Agriculture_Revolution_Help_Civil_Engineering_To_Grow-Ravi_inder_Singh(2314072).pdf)
 - [The Agriculture Revolution-Neeraj Singh (2314062- Presented)](Part-A/14_The_Agriculture_Revolution-Neeraj_Singh(2314062).pdf)
 - [First and second industrial revolution - Rajandeep Kaur (2314069 - Not Presented)](Part-A/16_First_and_second_industrial_revolution-Rajandeep_kaur(2314069).pdf)
-[How first and second Industrial Revolutions helped civil engineering to grow -Vansh Sehgal (2314084 -  Presented)](Part-A/15_How_first_and_second_industrial_revolution_help_the_civil_engineers_to_grow-Vansh_Sehgal(2314084).pdf)
+- [How first and second Industrial Revolutions helped civil engineering to grow -Vansh Sehgal (2314084 -  Presented)](Part-A/15_How_first_and_second_industrial_revolution_help_the_civil_engineers_to_grow-Vansh_Sehgal(2314084).pdf)
 - [IT Revolution and it's Impact on Civil Engineering - Vishal Kumar (2314087  Not Presented)](Part-A/17_IT_Revolution_and_it's_impact_on_civil_engineering-Vishal_Kumar(2314087).pdf)
 - [IT Revolution - Navpreet (2314061 - Presented)](Part-A/18_IT_revolution-Navpreet(2314061).pdf)
 - [AI impact on Civil Engineering - Navneet kaur (2314060 - Presented)](Part-A/19_AI_in_Civil_Engineering-Navneet_kaur_(2314060).pdf)
