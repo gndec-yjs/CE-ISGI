@@ -104,5 +104,5 @@
 - [Optimizing Energy Use in Modern Construction - Tanveer Singh (2314096)](Part-B/52_Optimizing_Energy_Use_in_Modern_Construction_Tanveer_Singh_(2314096).pdf)
 - [Financial Mechanism for Infrastructure Development - Peyanshu (2314066)](Part-B/53_Financial_Mechanism_for_Infrastructure_Development_Peyanshu_(2314066).pdf)
 - [When Innovation Fails The Challenges in Civil Engineering - Prince (2314099)](Part-B/54_When_Innovation_Fails_The_Challenges_in_Civil_Engineering_Prince_(2314099).pdf)
-- [Advanced Seismic Engineering and Earthquake - Dilkaran Singh (2314092)](Part-B/55_Advanced_Seismic_Engineering_and_Earthquake_Dilkaran_Singh_(2314092).pdf)
+- [Advanced Seismic Engineering and Earthquake - Dilkaran Singh (2314092)](Part-B/55_Advanced_Seismic_Engineering_And_Earthquake_Dilkaran_Singh(2314092).pdf)
 - [Flood Resilient Structures - Jagjit Singh (2314103)](Part-B/56_Flood_Resilient_Structures_Jagjit_Singh_(2314103).pdf)
