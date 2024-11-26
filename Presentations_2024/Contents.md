@@ -6,7 +6,7 @@
 
 - [Civil Engineering and it’s Historical Developments - Dilkaran Singh (2314092 - Presented)](Part-A/1_Civil_Engineering_And_Historical_Development-Dilkaran_Singh(2314092).pdf)
 - [Civil Engineering and it’s Historical Developments - Noorprabhdeep Singh (2314063 - Presented)](Part-A/2_Civil_Engineering_And_Historical_Development-Noorprabhdeep_Singh(2314063).pdf)
-- [Imp Of Civil Engineering In Shaping And Impacting The World - Navjot Kaur (2314059 - Presented)](Part-A/3_Imp_Of_Civil_Engineering_In_Shaping_And_Impacting_The_World-Navjot_Kaur(2314059).pdf)
+- [Importance of Civil Engineering In Shaping And Impacting The World - Navjot Kaur (2314059 - Presented)](Part-A/3_Imp_Of_Civil_Engineering_In_Shaping_And_Impacting_The_World-Navjot_Kaur(2314059).pdf)
 - [How Civil Engineering Changed World With Their Work and Innovation - Harshdeep Verma(2314104 - Presented)](Part-A/4_How_Civil_Engineering_Changed_World_With_Their_Work_and_Innovation-Harshdeep_Verma(2314104).pdf)
 - [Ancient and Modern Marvels in Civil Engineering - Vatanveer Singh (2314097 - Presented)](Part-A/5_Ancient_and_Modern_Marvels_in_Civil_Engineering-Vatanveer_Singh(2314097).pdf)
 - [Ancient and Modern Marvels in Civil Engineering - Suryansh Thakur (2314079 - Presented)](Part-A/6_The_Ancient_And_Modern_Marvels_And_Wonders_Of_Civil_Engineering-Suryansh_Thakur(2314079).pdf)
